@@ -29,7 +29,7 @@ body {
     font-family: 'slogan';
     font-size: 400%;
     margin: 0;
-    text-shadow: 4px 4px  #333;
+    text-shadow: 4px 4px #333;
 }
 
 #container {
@@ -76,6 +76,7 @@ body {
 
 #content h1 {
     font-family: 'bold';
+    font-size: 250%;
 }
 
 #content img {
@@ -118,7 +119,8 @@ body {
         background-color: white;
     }
 
-    #menu, #content {
+    #menu,
+    #content {
         width: 100%;
     }
 
